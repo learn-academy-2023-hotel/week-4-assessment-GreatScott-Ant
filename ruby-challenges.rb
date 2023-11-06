@@ -1,6 +1,6 @@
 # ASSESSMENT 4: Ruby Coding Practical Questions
 # MINASWAN ✌️
-
+# comment test
 # --------------------1) Create a method that takes in a number and determines if the number is even or odd. Use the test variables provided.
 
 reposts1 = 7

@@ -1,5 +1,5 @@
 // ASSESSMENT 4: JavaScript Coding Practical Questions with Jest
-
+// test comment
 // Please read all questions thoroughly
 // Pseudo coding is REQUIRED
 // If you get stuck, please leave comments to help us understand your thought process
